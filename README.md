@@ -1,3 +1,11 @@
+<script src="https://utteranc.es/client.js"
+        repo="selivan/test-utteranc"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/selivan/test-utteranc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

@@ -2,6 +2,7 @@
         repo="selivan/test-utteranc"
         issue-term="pathname"
         theme="github-light"
+        label="comments"
         crossorigin="anonymous"
         async>
 </script>

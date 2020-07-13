@@ -1,4 +1,4 @@
-<script src="/client.js"
+<script src="/test-utteranc/client.js"
         repo="selivan/test-utteranc"
         issue-term="pathname"
         theme="github-light"

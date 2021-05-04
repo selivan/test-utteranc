@@ -1,8 +1,8 @@
-<script src="https://selivan.github.io/test-utteranc/client.js"
+<script src="https://utteranc.es/client.js"
         repo="selivan/test-utteranc"
         issue-term="pathname"
-        theme="github-light"
         label="comments"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>

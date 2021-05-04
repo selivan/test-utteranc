@@ -46,3 +46,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         crossorigin="anonymous"
         async>
 </script>
+
+Note: [utterances](https://github.com/apps/utterances) application can act on your behalf only in repositories that had authorized it. Or you can just follow the "NN comments" link directly to the github issue with comments.

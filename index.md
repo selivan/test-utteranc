@@ -1,13 +1,4 @@
-<script src="https://utteranc.es/client.js"
-        repo="selivan/test-utteranc"
-        issue-term="pathname"
-        label="comments"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
-v2
+v3
 
 ## Welcome to GitHub Pages
 
@@ -46,3 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<script src="https://utteranc.es/client.js"
+        repo="selivan/test-utteranc"
+        issue-term="pathname"
+        label="comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
